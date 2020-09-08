@@ -1,0 +1,11 @@
+.bottons {
+  width: 300px;
+  margin: 40px auto;
+}
+
+.showCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  flex-wrap: wrap;
+}
